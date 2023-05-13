@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>JavaReflectionTest</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <module>TR1</module>
+        <module>TR2</module>
+        <module>TR3</module>
+        <module>TR4</module>
+        <module>TR5</module>
+        <module>TR6</module>
+        <module>TR7</module>
+        <module>TR8</module>
+        <module>TR9</module>
+        <module>LRR1</module>
+        <module>LRR2</module>
+        <module>LRR3</module>
+        <module>CSR1</module>
+        <module>CSR2</module>
+        <module>CSR3</module>
+        <module>CSR4</module>
+        <module>CFNE1</module>
+        <module>CFNE2</module>
+        <module>CFNE3</module>
+        <module>CFNE4</module>
+    </modules>
+</project>

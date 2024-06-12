@@ -35,5 +35,6 @@
         <module>CFNE2</module>
         <module>CFNE3</module>
         <module>CFNE4</module>
+        <module>Taint</module>
     </modules>
 </project>
